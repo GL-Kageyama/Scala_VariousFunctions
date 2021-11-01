@@ -14,3 +14,13 @@ object ScalaPartiallyAppliedFunctions extends App {
     val allPartiallyApplied = addString _
     println(allPartiallyApplied("We", "are", "Scala !"))
 }
+
+
+// =====================================
+//            Output Sample
+// =====================================
+// $ scalac ScalaPartiallyAppliedFunctions.scala 
+// $ scala ScalaPartiallyAppliedFunctions
+// We are Scala !
+// We are Scala !
+// We are Scala !
