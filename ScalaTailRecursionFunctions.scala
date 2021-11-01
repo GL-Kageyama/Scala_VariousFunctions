@@ -13,3 +13,11 @@ object ScalaTailRecursionFunctions extends App {
     // Add from 1 to 10
     println(sum(10, 0))
 }
+
+
+// =====================================
+//            Output Sample
+// =====================================
+// $ scalac ScalaTailRecursionFunctions.scala 
+// $ scala ScalaTailRecursionFunctions
+// 55
