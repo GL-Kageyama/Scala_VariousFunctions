@@ -19,3 +19,12 @@ object ScalaLocalFunctions extends App {
     // addFunc function is processed (not a local function)
     println(addFunc(1))
 }
+
+
+// =====================================
+//            Output Sample
+// =====================================
+// $ scalac ScalaLocalFunctions.scala 
+// $ scala ScalaLocalFunctions
+// 5
+// 2
