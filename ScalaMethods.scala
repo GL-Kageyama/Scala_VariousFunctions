@@ -7,3 +7,11 @@ object ScalaMethods extends App {
 
     println(multiFunc(3))
 }
+
+
+// =====================================
+//            Output Sample
+// =====================================
+// $ scalac ScalaMethods.scala 
+// $ scala ScalaMethods
+// 9
