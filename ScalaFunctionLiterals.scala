@@ -25,3 +25,18 @@ object ScalaFunctionLiterals extends App {
     }
     println(addLiteral(10))
 }
+
+
+// =====================================
+//            Output Sample
+// =====================================
+// $ scalac ScalaFunctionLiterals.scala 
+// $ scala ScalaFunctionLiterals
+// 11
+// 10009
+// 11
+// 11
+// We
+// are
+// Scala !
+// 11
